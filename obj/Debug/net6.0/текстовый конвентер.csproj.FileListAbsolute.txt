@@ -1,0 +1,51 @@
+D:\проекты визуал студио\текстовый конвентер\obj\Debug\net6.0\текстовый конвентер.csproj.AssemblyReference.cache
+D:\проекты визуал студио\текстовый конвентер\obj\Debug\net6.0\текстовый конвентер.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекты визуал студио\текстовый конвентер\obj\Debug\net6.0\текстовый конвентер.AssemblyInfoInputs.cache
+D:\проекты визуал студио\текстовый конвентер\obj\Debug\net6.0\текстовый конвентер.AssemblyInfo.cs
+D:\проекты визуал студио\текстовый конвентер\obj\Debug\net6.0\текстовый конвентер.csproj.CoreCompileInputs.cache
+D:\проекты визуал студио\текстовый конвентер\bin\Debug\net6.0\текстовый конвентер.exe
+D:\проекты визуал студио\текстовый конвентер\bin\Debug\net6.0\текстовый конвентер.deps.json
+D:\проекты визуал студио\текстовый конвентер\bin\Debug\net6.0\текстовый конвентер.runtimeconfig.json
+D:\проекты визуал студио\текстовый конвентер\bin\Debug\net6.0\текстовый конвентер.dll
+D:\проекты визуал студио\текстовый конвентер\bin\Debug\net6.0\текстовый конвентер.pdb
+D:\проекты визуал студио\текстовый конвентер\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\проекты визуал студио\текстовый конвентер\obj\Debug\net6.0\текстовый конвентер.csproj.CopyComplete
+D:\проекты визуал студио\текстовый конвентер\obj\Debug\net6.0\текстовый конвентер.dll
+D:\проекты визуал студио\текстовый конвентер\obj\Debug\net6.0\refint\текстовый конвентер.dll
+D:\проекты визуал студио\текстовый конвентер\obj\Debug\net6.0\текстовый конвентер.pdb
+D:\проекты визуал студио\текстовый конвентер\obj\Debug\net6.0\текстовый конвентер.genruntimeconfig.cache
+D:\проекты визуал студио\текстовый конвентер\obj\Debug\net6.0\ref\текстовый конвентер.dll
+C:\Users\rkors\OneDrive\Рабочий стол\text-conventer-platon-master\bin\Debug\net6.0\текстовый конвентер.exe
+C:\Users\rkors\OneDrive\Рабочий стол\text-conventer-platon-master\bin\Debug\net6.0\текстовый конвентер.deps.json
+C:\Users\rkors\OneDrive\Рабочий стол\text-conventer-platon-master\bin\Debug\net6.0\текстовый конвентер.runtimeconfig.json
+C:\Users\rkors\OneDrive\Рабочий стол\text-conventer-platon-master\bin\Debug\net6.0\текстовый конвентер.dll
+C:\Users\rkors\OneDrive\Рабочий стол\text-conventer-platon-master\bin\Debug\net6.0\текстовый конвентер.pdb
+C:\Users\rkors\OneDrive\Рабочий стол\text-conventer-platon-master\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rkors\OneDrive\Рабочий стол\text-conventer-platon-master\obj\Debug\net6.0\текстовый конвентер.csproj.AssemblyReference.cache
+C:\Users\rkors\OneDrive\Рабочий стол\text-conventer-platon-master\obj\Debug\net6.0\текстовый конвентер.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkors\OneDrive\Рабочий стол\text-conventer-platon-master\obj\Debug\net6.0\текстовый конвентер.AssemblyInfoInputs.cache
+C:\Users\rkors\OneDrive\Рабочий стол\text-conventer-platon-master\obj\Debug\net6.0\текстовый конвентер.AssemblyInfo.cs
+C:\Users\rkors\OneDrive\Рабочий стол\text-conventer-platon-master\obj\Debug\net6.0\текстовый конвентер.csproj.CoreCompileInputs.cache
+C:\Users\rkors\OneDrive\Рабочий стол\text-conventer-platon-master\obj\Debug\net6.0\текстовый конвентер.csproj.CopyComplete
+C:\Users\rkors\OneDrive\Рабочий стол\text-conventer-platon-master\obj\Debug\net6.0\текстовый конвентер.dll
+C:\Users\rkors\OneDrive\Рабочий стол\text-conventer-platon-master\obj\Debug\net6.0\refint\текстовый конвентер.dll
+C:\Users\rkors\OneDrive\Рабочий стол\text-conventer-platon-master\obj\Debug\net6.0\текстовый конвентер.pdb
+C:\Users\rkors\OneDrive\Рабочий стол\text-conventer-platon-master\obj\Debug\net6.0\текстовый конвентер.genruntimeconfig.cache
+C:\Users\rkors\OneDrive\Рабочий стол\text-conventer-platon-master\obj\Debug\net6.0\ref\текстовый конвентер.dll
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic6-master\Practic6-master\bin\Debug\net6.0\текстовый конвентер.exe
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic6-master\Practic6-master\bin\Debug\net6.0\текстовый конвентер.deps.json
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic6-master\Practic6-master\bin\Debug\net6.0\текстовый конвентер.runtimeconfig.json
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic6-master\Practic6-master\bin\Debug\net6.0\текстовый конвентер.dll
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic6-master\Practic6-master\bin\Debug\net6.0\текстовый конвентер.pdb
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic6-master\Practic6-master\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic6-master\Practic6-master\obj\Debug\net6.0\текстовый конвентер.csproj.AssemblyReference.cache
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic6-master\Practic6-master\obj\Debug\net6.0\текстовый конвентер.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic6-master\Practic6-master\obj\Debug\net6.0\текстовый конвентер.AssemblyInfoInputs.cache
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic6-master\Practic6-master\obj\Debug\net6.0\текстовый конвентер.AssemblyInfo.cs
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic6-master\Practic6-master\obj\Debug\net6.0\текстовый конвентер.csproj.CoreCompileInputs.cache
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic6-master\Practic6-master\obj\Debug\net6.0\текстовый конвентер.csproj.CopyComplete
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic6-master\Practic6-master\obj\Debug\net6.0\текстовый конвентер.dll
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic6-master\Practic6-master\obj\Debug\net6.0\refint\текстовый конвентер.dll
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic6-master\Practic6-master\obj\Debug\net6.0\текстовый конвентер.pdb
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic6-master\Practic6-master\obj\Debug\net6.0\текстовый конвентер.genruntimeconfig.cache
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic6-master\Practic6-master\obj\Debug\net6.0\ref\текстовый конвентер.dll
